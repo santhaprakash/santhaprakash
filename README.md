@@ -1,19 +1,17 @@
- <h1>Desire to become a full stack developer,highly interested to learn new things🚀 </h1>
+ <h1>To be afull stack developer😍🚀</h1>
 
 
 
-
- 🌱 I’m currently learning **Nextjs**
+🙂 I’m currently learning **Nextjs**
 
 👩‍💻 Self Taught developer
 
 
-## 📫 Reach me on
+## 👨 Reach me on
 
-  <a align="center" href="https://www.linkedin.com/in/sanjai-popz/"><img height="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
-    <a align="center" href="https://www.instagram.com/itz_me_r.i.y.a.z_/"><img height="50" src="https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png"></a>&nbsp;&nbsp;&nbsp;
-      <a align="center" href="https://twitter.com/Sanjaipopz"><img height="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-    
+  <a align="center" href="www.linkedin.com/in/santha-prakash-014003207" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
+    <a align="center" href="https://instagram.com/santha__prakash?utm_medium=copy_link"><img height="50" src="https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png"></a>&nbsp;&nbsp;&nbsp;
+     
 
 
 

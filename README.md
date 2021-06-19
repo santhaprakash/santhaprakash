@@ -1,4 +1,4 @@
- <h1>To be afull stack developer😍🚀</h1>
+ <h1>To be a full stack developer😍🚀</h1>
 
 
 
@@ -46,13 +46,11 @@
 [<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>]()&nbsp;&nbsp;&nbsp;
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]()&nbsp;&nbsp;&nbsp;
 [<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]()&nbsp;&nbsp;&nbsp;
-[<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>]()&nbsp;&nbsp;&nbsp;
 [<img alt="Figma" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>]()
 
 
 
-  [<img align="left" alt="Sanjai's Status" src="https://github-readme-stats.vercel.app/api?username=sanjai-r&theme=dark"/>]()
-  [<img align="left" alt="Sanjai's Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai-r&hide=html,css&theme=dark"/>]()
+
   
  
  

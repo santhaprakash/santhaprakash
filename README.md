@@ -9,7 +9,7 @@
 
 ## 👨 Reach me on
 
-  <a align="center" href="www.linkedin.com/in/santha-prakash-014003207" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
+  <a align="center" href="www.linkedin.com/in/santha-prakash-014003207"><img height="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
     <a align="center" href="https://instagram.com/santha__prakash?utm_medium=copy_link"><img height="50" src="https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png"></a>&nbsp;&nbsp;&nbsp;
      
 

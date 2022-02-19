@@ -1,9 +1,6 @@
  <h1>To be a full stack developer😍🚀</h1>
 
 
-
-🙂 I’m currently learning **Nextjs**
-
 👩‍💻 Self Taught developer
 
 
